@@ -45,7 +45,7 @@ button{
 button:hover{transform:translate(-1px,-1px);box-shadow:3px 3px 0 var(--ink)}
 button:active{transform:none;box-shadow:none}
 button.solid{background:var(--ink);color:var(--paper)}
-button.on{background:var(--coral);color:#fff}
+button.on{background:var(--coral);color:#fc0808}
 button.warn{color:var(--coral)}
 :focus-visible{outline:3px solid var(--coral);outline-offset:2px}
 
